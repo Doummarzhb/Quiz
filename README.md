@@ -1,3 +1,5 @@
+![quiz](https://github.com/Doummarzhb/Quiz/assets/98951369/aab485e5-cdd6-45ee-956e-c2917f4b2e22)
+
 # Quizapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.1.
